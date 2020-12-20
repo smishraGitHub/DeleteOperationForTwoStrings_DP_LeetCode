@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteOperationForTwoStrings_DP_LeetCode", "DeleteOperationForTwoStrings_DP_LeetCode\DeleteOperationForTwoStrings_DP_LeetCode.csproj", "{AA99FCFB-0011-4CF0-B5AA-91EA943AB108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA99FCFB-0011-4CF0-B5AA-91EA943AB108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA99FCFB-0011-4CF0-B5AA-91EA943AB108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA99FCFB-0011-4CF0-B5AA-91EA943AB108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA99FCFB-0011-4CF0-B5AA-91EA943AB108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1602FE41-6C96-45C9-A2C5-F89C7BDAAED0}
+	EndGlobalSection
+EndGlobal
